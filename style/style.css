@@ -10,8 +10,8 @@ body {
 }
 
 .container {
-  height: 100vh;
-  width: 100vh;
+  height: 90vh;
+  width: 100vw;
   margin: 0 auto;
   text-align: center;
   visibility: hidden;
@@ -68,8 +68,8 @@ body {
   font-size: 3rem;
 }
 
-.five .idea-5 {
-  font-size: 4rem;
+.smiley {
+  font-size: 3rem;
 }
 
 .texti5 {
@@ -77,8 +77,18 @@ body {
   color: yellow;
 }
 
-.idea-6 span, .idea-5 span {
+.idea-6 span {
   display: inline-block;
+}
+
+.idea-5 span {
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.textwm {
+  font-size: 2rem;
+  font-weight: lighter;
 }
 
 .idea-6 span {
@@ -93,8 +103,16 @@ body {
   font-size: 2.5rem;
 }
 
-.textSS {
+.textw1 {
   color: yellow;
+}
+
+.textw2 {
+  color: green;
+}
+
+.textw3 {
+  color: pink;
 }
 
 .nine p {
@@ -119,4 +137,16 @@ body {
 
 .last-smile {
   font-size: 3rem;
+}
+
+.sign {
+  justify-content: flex-end;
+  padding: 0px 25px;
+  text-align: right;
+  align-items: center;
+}
+
+.sign p {
+  color: rgb(50, 50, 50);
+  font-size: 1rem;
 }
