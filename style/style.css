@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-color: black;
+  background-color: #18191A;
   color: white;
 }
 
@@ -23,28 +23,28 @@ body {
   position: absolute;
   left: 0;
   right: 0;
-  top: 20vh;
+  top: 24vh;
 }
 
 .onetext {
-  font-size: 4rem;
+  font-size: 7rem;
 }
 
 .oneface {
-  font-size: 2rem;
+  font-size: 5rem;
   color: #e3bae8;
 }
 
 .two {
-  font-size: 1.7rem;
+  font-size: 2.5rem;
 }
 
 .three p {
-  font-size: 2rem;
+  font-size: 5rem;
 }
 
 .four p {
-  font-size: 3rem;
+  font-size: 5.5rem;
   color: yellow;
 }
 
@@ -55,7 +55,7 @@ body {
 }
 
 .idea-4 {
-  font-size: 4rem;
+  font-size: 7rem;
 }
 
 .idea-3 strong {
@@ -65,15 +65,15 @@ body {
 }
 
 .idea-3 {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 .smiley {
-  font-size: 3rem;
+  font-size: 5.5rem;
 }
 
 .texti5 {
-  font-size: 3rem;
+  font-size: 5rem;
   color: yellow;
 }
 
@@ -81,13 +81,18 @@ body {
   display: inline-block;
 }
 
+.idea-5 {
+  top: 10vh
+}
+
 .idea-5 span {
   display: inline-block;
   margin-right: 25px;
+  margin-left: 5px;
 }
 
 .textwm {
-  font-size: 2rem;
+  font-size: 4rem;
   font-weight: lighter;
 }
 
@@ -96,47 +101,43 @@ body {
 }
 
 .seven p, .eight p {
-  font-size: 5rem;
+  font-size: 6rem;
 }
 
 .six p {
-  font-size: 2.5rem;
+  font-size: 3.5rem;
 }
 
-.textw1 {
-  color: yellow;
+.wish {
+  color: rgb(172, 172, 172);
 }
 
-.textw2 {
-  color: green;
-}
-
-.textw3 {
+.textw {
   color: pink;
 }
 
 .nine p {
-  font-size: 2rem;
-  line-height: 3.5rem;
+  font-size: 4.8rem;
+  line-height: 7rem;
 }
 
 .tenText {
-  font-size: 2rem;
-  line-height: 3rem;
+  font-size: 4rem;
+  line-height: 5.5rem;
 }
 
 .troll {
- font-size: 1.5rem;
+ font-size: 2.7rem;
  font-weight: lighter;
 }
 
 .textFinal {
   color: yellow;
-  font-size: 2.5rem;
+  font-size: 5rem;
 }
 
 .last-smile {
-  font-size: 3rem;
+  font-size: 6rem;
 }
 
 .sign {
@@ -148,5 +149,5 @@ body {
 
 .sign p {
   color: rgb(50, 50, 50);
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
