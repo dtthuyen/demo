@@ -44,7 +44,7 @@ html {
   }
   
   .four p {
-    font-size: 4.5rem;
+    font-size: 4.2rem;
     color: yellow;
   }
   
@@ -118,17 +118,17 @@ html {
   }
   
   .nine p {
-    font-size: 3.5rem;
-    line-height: 5.5rem;
-  }
-  
-  .tenText {
     font-size: 3rem;
     line-height: 5rem;
   }
   
+  .tenText {
+    font-size: 2.7rem;
+    line-height: 4.5rem;
+  }
+  
   .troll {
-   font-size: 2.5rem;
+   font-size: 2rem;
    font-weight: lighter;
   }
   
